@@ -16,35 +16,37 @@ Possibles:
  
  GMtool possibilities:
  - link with website
- - character sheet generator on website
+ - character generator on website
  - save drafts to profile
  - export drafts to the gm
  - gm can load via gmtool
  - save sheets for later cameo
- - save progress of characters to game profile on server
- - you have your draft, then the modified "this is this character in this game"
+ - save progress of profile on server async
+ - you have your draft, then the modified shadow copy
  
  
  alpha dev cycle:
 - php, mysql, css, html, very minor javascript
 - get the primary goal functions working, barebones presentation, consistency
+- initial ajax inclusion testing
 - testing cycle
+- presentation polish
 
 beta dev cycle:
 - begin ajax inclusion
-- optimize display to firefox, chrome, MSIE
-- implement full payment auths
-- begin full content support
+- optimize display to firefox, chrome, MSIE, phone/tablet
+- implement initial payment auths
+- begin content support
 
 finish dev cycle:
-- final testing
+- final alpha features implementation
 - bring to full compliance w/xhtml strict
-- start marketing
-- finish bugtesting
+- greenlight marketing
+- finish bug hunting
 - deploy
 
 
-colors?
+colors?  Needs some form of input/decision
 003D00
 	
 073607
