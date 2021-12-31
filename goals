@@ -1,0 +1,63 @@
+ - A functioning marketplace
+ - DM/GMfinder utility
+ - Profile management
+ - Message board?
+ - User authentication and session control
+ - Utility for uploading pdfs to the marketplace
+ - Utility for Owens' lightsaber page
+ 
+Possibles:
+ - Don't harsh anyones vibe without warrant
+ - nerd auction house
+ - toys
+ - memoribilia
+ - shirts
+ 
+ 
+ GMtool possibilities:
+ - link with website
+ - character sheet generator on website
+ - save drafts to profile
+ - export drafts to the gm
+ - gm can load via gmtool
+ - save sheets for later cameo
+ - save progress of characters to game profile on server
+ - you have your draft, then the modified "this is this character in this game"
+ 
+ 
+ alpha dev cycle:
+- php, mysql, css, html, very minor javascript
+- get the primary goal functions working, barebones presentation, consistency
+- testing cycle
+
+beta dev cycle:
+- begin ajax inclusion
+- optimize display to firefox, chrome, MSIE
+- implement full payment auths
+- begin full content support
+
+finish dev cycle:
+- final testing
+- bring to full compliance w/xhtml strict
+- start marketing
+- finish bugtesting
+- deploy
+
+
+colors?
+003D00
+	
+073607
+	
+003200
+	
+0E6E0E
+	
+196E19 
+
+websafe colors?
+336633
+333333
+003300
+669966
+669966 
